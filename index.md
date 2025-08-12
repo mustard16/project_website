@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 
 title: Exposing Unintended Public mDNS Services at Scale
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+paper: https://www.overleaf.com/project/676a36398aa1a25c1eb452c9
 code: https://github.com/topics/turing-machines
 data: https://huggingface.co/docs/datasets
 ---
@@ -14,9 +14,9 @@ data: https://huggingface.co/docs/datasets
         <h2>Abstract</h2>
         <div class="content has-text-justified">
 With the growing ubiquity of smart and portable devices in local networks (LANs), DNS Service Discovery (DNS-SD) over multicast DNS (mDNS) has become essential for zero-configuration connectivity.  
-Our measurements uncover **millions of open mDNS services** across **187 countries**, accessible due to misconfigurations and lack of access control. These services span six major categories of internal devices, posing risks such as remote exploitation and privacy leakage.  
-We identify **protocol-level vulnerabilities** that enable high-volume reflection-based DDoS attacks, reaching **terabit-scale amplification**.  
-We propose defenses including **optimized configurations**, **zero-trust access control**, 和 a **token-based authentication mechanism** for mDNS, validated in real-world Internet experiments.
+Our measurements uncover <b>millions of open mDNS services<b> across <b>187 countries<b>, accessible due to misconfigurations and lack of access control. These services span six major categories of internal devices, posing risks such as remote exploitation and privacy leakage.  
+We identify <b>protocol-level vulnerabilities<b> that enable high-volume reflection-based DDoS attacks, reaching <b>terabit-scale amplification<b>.  
+We propose defenses including <b>optimized configurations<b>， <b>zero-trust access control<b>, 和 a <b>token-based authentication mechanism<b> for mDNS, validated in real-world Internet experiments.
         </div>
     </div>
 </div>
