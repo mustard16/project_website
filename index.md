@@ -16,7 +16,7 @@ data: https://huggingface.co/docs/datasets
 With the growing ubiquity of smart and portable devices in local networks (LANs), DNS Service Discovery (DNS-SD) over multicast DNS (mDNS) has become essential for zero-configuration connectivity.  
 Our measurements uncover <b>millions of open mDNS services</b> across <b>187 countries</b>, accessible due to misconfigurations and lack of access control. These services span six major categories of internal devices, posing risks such as remote exploitation and privacy leakage.  
 We identify <b>protocol-level vulnerabilities</b> that enable high-volume reflection-based DDoS attacks, reaching <b>terabit-scale amplification</b>.  
-We propose defenses including <b>optimized configurations</b>， <b>zero-trust access control</b>, 和 a <b>token-based authentication mechanism</b> for mDNS, validated in real-world Internet experiments.
+We propose defenses including <b>optimized configurations</b>， <b>zero-trust access control</b>, and a <b>token-based authentication mechanism</b> for mDNS, validated in real-world Internet experiments.
         </div>
     </div>
 </div>
